@@ -1,0 +1,42 @@
+_repo: Glyn-Severn-s-Schooldays_21312
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pears, Charles
+    birthdate: 1873
+    deathdate: 1958
+    gutenberg_agent_id: '9846'
+    url: http://www.gutenberg.org/2009/agents/9846
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fenn, George Manville
+    aliases:
+    - Fenn, G. Manville (George Manville)
+    - Fenn, G. M. (George Manville)
+    birthdate: 1831
+    deathdate: 1909
+    gutenberg_agent_id: '3840'
+    url: http://www.gutenberg.org/2009/agents/3840
+    wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
+description: ''
+gutenberg_bookshelf: School Stories
+gutenberg_issued: '2007-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21312'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Schools -- Fiction'
+- !lcsh 'Princes -- India -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'East Indians -- England -- Juvenile fiction'
+- !lcsh 'Boarding schools -- England -- Juvenile fiction'
+title: Glyn Severn's Schooldays
+url: http://www.gutenberg.org/ebooks/21312
